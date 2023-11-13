@@ -1,5 +1,10 @@
 To be able to run the React Code it is neccessery to install all the packages and plugins.
 They can be found in ReactCode Folder > package.json file
-
+With Visual Studio Code open ReactCode Folder and if all is Ok with
+command npm start front end should be able to lounch.
+Front end connects to the back end so first its neccessery to run CombinedProject solution.
 CombinedProject Solution can be opened and build with visual studio.
+There are 2 endpoints that might need to be modified for your localhost 
+One at the front end is at file .env.development
+and the other at file appsettings.Development.json in .Net CombinedProject solution
 
