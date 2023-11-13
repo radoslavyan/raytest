@@ -1,0 +1,5 @@
+To be able to run the React Code it is neccessery to install all the packages and plugins.
+They can be found in ReactCode Folder > package.json file
+
+CombinedProject Solution can be opened and build with visual studio.
+
