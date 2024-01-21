@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "TqQkT0q6QRt3W2pIWNMxfZqLKhI251evv08BVPrau3UjXMwf8ha7S1+D5LhyZXKD/Jh6aJNNcH56eeFJdG541A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rados\\OneDrive\\Skrivebord\\rep\\TimeLogger\\server\\TimeLogger.Domain\\TimeLogger.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rados\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\rados\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\rados\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

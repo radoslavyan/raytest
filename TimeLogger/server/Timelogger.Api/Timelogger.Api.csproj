@@ -5,7 +5,12 @@
   </PropertyGroup>
   
   <ItemGroup>
-    <ProjectReference Include="..\Timelogger\Timelogger.csproj" />
+    <ProjectReference Include="..\Timelogger.Application\Timelogger.Application.csproj" />
+    <ProjectReference Include="..\Timelogger\Timelogger.Persistence.csproj" />
+  </ItemGroup>
+  
+  <ItemGroup>
+    <Folder Include="Middleware\" />
   </ItemGroup>
 
 </Project>
