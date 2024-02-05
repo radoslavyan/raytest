@@ -1,0 +1,11 @@
+C:\Users\rados\OneDrive\Skrivebord\rep\TimeLogger\server\TimeLogger.Domain\bin\Debug\net7.0\TimeLogger.Domain.deps.json
+C:\Users\rados\OneDrive\Skrivebord\rep\TimeLogger\server\TimeLogger.Domain\bin\Debug\net7.0\TimeLogger.Domain.dll
+C:\Users\rados\OneDrive\Skrivebord\rep\TimeLogger\server\TimeLogger.Domain\bin\Debug\net7.0\TimeLogger.Domain.pdb
+C:\Users\rados\OneDrive\Skrivebord\rep\TimeLogger\server\TimeLogger.Domain\obj\Debug\net7.0\TimeLogger.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rados\OneDrive\Skrivebord\rep\TimeLogger\server\TimeLogger.Domain\obj\Debug\net7.0\TimeLogger.Domain.AssemblyInfoInputs.cache
+C:\Users\rados\OneDrive\Skrivebord\rep\TimeLogger\server\TimeLogger.Domain\obj\Debug\net7.0\TimeLogger.Domain.AssemblyInfo.cs
+C:\Users\rados\OneDrive\Skrivebord\rep\TimeLogger\server\TimeLogger.Domain\obj\Debug\net7.0\TimeLogger.Domain.csproj.CoreCompileInputs.cache
+C:\Users\rados\OneDrive\Skrivebord\rep\TimeLogger\server\TimeLogger.Domain\obj\Debug\net7.0\TimeLogger.Domain.dll
+C:\Users\rados\OneDrive\Skrivebord\rep\TimeLogger\server\TimeLogger.Domain\obj\Debug\net7.0\refint\TimeLogger.Domain.dll
+C:\Users\rados\OneDrive\Skrivebord\rep\TimeLogger\server\TimeLogger.Domain\obj\Debug\net7.0\TimeLogger.Domain.pdb
+C:\Users\rados\OneDrive\Skrivebord\rep\TimeLogger\server\TimeLogger.Domain\obj\Debug\net7.0\ref\TimeLogger.Domain.dll

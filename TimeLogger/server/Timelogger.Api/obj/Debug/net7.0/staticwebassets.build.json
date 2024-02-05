@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Yu+sqR0kxWYQCcAr3U4R17gsQVP7HGKuSp0aVGyUg48=",
+  "Source": "Timelogger.Api",
+  "BasePath": "_content/Timelogger.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

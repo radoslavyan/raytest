@@ -1,0 +1,5 @@
+C:\Users\rados\OneDrive\Skrivebord\rep\TimeLogger\server\Timelogger\obj\Debug\netcoreapp3.1\Timelogger.Persistence.csproj.AssemblyReference.cache
+C:\Users\rados\OneDrive\Skrivebord\rep\TimeLogger\server\Timelogger\obj\Debug\netcoreapp3.1\Timelogger.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rados\OneDrive\Skrivebord\rep\TimeLogger\server\Timelogger\obj\Debug\netcoreapp3.1\Timelogger.Persistence.AssemblyInfoInputs.cache
+C:\Users\rados\OneDrive\Skrivebord\rep\TimeLogger\server\Timelogger\obj\Debug\netcoreapp3.1\Timelogger.Persistence.AssemblyInfo.cs
+C:\Users\rados\OneDrive\Skrivebord\rep\TimeLogger\server\Timelogger\obj\Debug\netcoreapp3.1\Timelogger.Persistence.csproj.CoreCompileInputs.cache

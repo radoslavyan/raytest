@@ -1,0 +1,17 @@
+C:\Users\rados\OneDrive\Skrivebord\rep\TimeLogger\server\Timelogger.Perisistenc\bin\Debug\net7.0\Timelogger.Perisistence.deps.json
+C:\Users\rados\OneDrive\Skrivebord\rep\TimeLogger\server\Timelogger.Perisistenc\bin\Debug\net7.0\Timelogger.Perisistence.dll
+C:\Users\rados\OneDrive\Skrivebord\rep\TimeLogger\server\Timelogger.Perisistenc\bin\Debug\net7.0\Timelogger.Perisistence.pdb
+C:\Users\rados\OneDrive\Skrivebord\rep\TimeLogger\server\Timelogger.Perisistenc\bin\Debug\net7.0\Timelogger.Application.dll
+C:\Users\rados\OneDrive\Skrivebord\rep\TimeLogger\server\Timelogger.Perisistenc\bin\Debug\net7.0\TimeLogger.Domain.dll
+C:\Users\rados\OneDrive\Skrivebord\rep\TimeLogger\server\Timelogger.Perisistenc\bin\Debug\net7.0\Timelogger.Application.pdb
+C:\Users\rados\OneDrive\Skrivebord\rep\TimeLogger\server\Timelogger.Perisistenc\bin\Debug\net7.0\TimeLogger.Domain.pdb
+C:\Users\rados\OneDrive\Skrivebord\rep\TimeLogger\server\Timelogger.Perisistenc\obj\Debug\net7.0\Timelogger.Perisistence.csproj.AssemblyReference.cache
+C:\Users\rados\OneDrive\Skrivebord\rep\TimeLogger\server\Timelogger.Perisistenc\obj\Debug\net7.0\Timelogger.Perisistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rados\OneDrive\Skrivebord\rep\TimeLogger\server\Timelogger.Perisistenc\obj\Debug\net7.0\Timelogger.Perisistence.AssemblyInfoInputs.cache
+C:\Users\rados\OneDrive\Skrivebord\rep\TimeLogger\server\Timelogger.Perisistenc\obj\Debug\net7.0\Timelogger.Perisistence.AssemblyInfo.cs
+C:\Users\rados\OneDrive\Skrivebord\rep\TimeLogger\server\Timelogger.Perisistenc\obj\Debug\net7.0\Timelogger.Perisistence.csproj.CoreCompileInputs.cache
+C:\Users\rados\OneDrive\Skrivebord\rep\TimeLogger\server\Timelogger.Perisistenc\obj\Debug\net7.0\Timelogger.Perisistence.csproj.CopyComplete
+C:\Users\rados\OneDrive\Skrivebord\rep\TimeLogger\server\Timelogger.Perisistenc\obj\Debug\net7.0\Timelogger.Perisistence.dll
+C:\Users\rados\OneDrive\Skrivebord\rep\TimeLogger\server\Timelogger.Perisistenc\obj\Debug\net7.0\refint\Timelogger.Perisistence.dll
+C:\Users\rados\OneDrive\Skrivebord\rep\TimeLogger\server\Timelogger.Perisistenc\obj\Debug\net7.0\Timelogger.Perisistence.pdb
+C:\Users\rados\OneDrive\Skrivebord\rep\TimeLogger\server\Timelogger.Perisistenc\obj\Debug\net7.0\ref\Timelogger.Perisistence.dll
