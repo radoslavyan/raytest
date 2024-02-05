@@ -3,27 +3,27 @@
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iisExpress": {
-      "applicationUrl": "http://localhost:3001/",
-      "sslPort": 0
+      "applicationUrl": "http://localhost:5001/",
+      "sslPort": 44325
     }
   },
   "profiles": {
     "IIS Express": {
       "commandName": "IISExpress",
-      "launchBrowser": false,
-      "launchUrl": "api/values",
+      "launchBrowser": true,
+      "launchUrl": "api/projects",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
     "Timelogger.Api": {
       "commandName": "Project",
-      "launchBrowser": false,
-      "launchUrl": "api/values",
+      "launchBrowser": true,
+      "launchUrl": "api/projects",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       },
-      "applicationUrl": "http://localhost:3001"
+      "applicationUrl": "http://localhost:5001"
     }
   }
 }

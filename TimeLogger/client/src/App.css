@@ -1,0 +1,56 @@
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+        'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+        sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    overflow-y: auto;
+    /* Makes the div scrollable vertically */
+}
+
+.timelogger-home-page {
+    overflow-y: auto;
+    /* Makes the div scrollable vertically */
+    display: flex;
+    justify-content: flex-start;
+    /* Aligns items to the start of the container */
+    align-items: center;
+    /* Centers items vertically */
+}
+
+.projects-table-container,
+.timeregistrations-table-container {
+    max-height: 400px;
+    /* Adjust based on your needs */
+    overflow-y: auto;
+    /* Makes the div scrollable vertically */
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+        monospace;
+}
+
+form>a {
+    margin-left: 1rem;
+}
+
+.table a {
+    margin-right: 1rem;
+}
+
+
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 0.1rem;
+
+    /* Styling for your fixed footer */
+}

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "V0dGW5hCkeBWvtZOAhu77Dn75FiHpZ9SAeuP7lmjWI0MpNoUxGz1BJxaevuoiPo1Lu9CjAowH2nY9WVqnCSFKA==",
+  "dgSpecHash": "CPPEBXS9UCEtLBY5zuacPw81hh2FqinQ94l5kkE0Wqn53Ia5bd67hosGPD5qiDg6SE1dE0ywtU6sH5Q9IBGCNw==",
   "success": true,
   "projectFilePath": "C:\\Users\\rados\\OneDrive\\Skrivebord\\rep\\TimeLogger\\server\\Timelogger.Application\\Timelogger.Application.csproj",
   "expectedPackageFiles": [
@@ -15,10 +15,7 @@
     "C:\\Users\\rados\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\rados\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
     "C:\\Users\\rados\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
-    "C:\\Users\\rados\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
-    "C:\\Users\\rados\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\rados\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\rados\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+    "C:\\Users\\rados\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }

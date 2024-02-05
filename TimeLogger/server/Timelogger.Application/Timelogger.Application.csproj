@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <TargetFramework>net7.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
@@ -16,6 +16,19 @@
 
   <ItemGroup>
     <ProjectReference Include="..\TimeLogger.Domain\TimeLogger.Domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Features\ProjectFeature\Commands\CreateProject\" />
+    <Folder Include="Features\ProjectFeature\Commands\DeleteProject\" />
+    <Folder Include="Features\ProjectFeature\Commands\UpdateProject\" />
+    <Folder Include="Features\ProjectFeature\Queries\GetAllProjects\" />
+    <Folder Include="Features\ProjectFeature\Queries\GetProjectWithDetails\" />
+    <Folder Include="Features\TimeRegistrationFeature\Commands\CreateTimeRegistration\" />
+    <Folder Include="Features\TimeRegistrationFeature\Commands\DeleteTimeRegistration\" />
+    <Folder Include="Features\TimeRegistrationFeature\Commands\UpdateTimeRegistration\" />
+    <Folder Include="Features\TimeRegistrationFeature\Queries\GetAllTimeRegistration\" />
+    <Folder Include="Features\TimeRegistrationFeature\Queries\GetTimeRegistrationWithDetails\" />
   </ItemGroup>
 
 </Project>

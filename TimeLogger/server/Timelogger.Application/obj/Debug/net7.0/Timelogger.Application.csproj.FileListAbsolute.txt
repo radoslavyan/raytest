@@ -1,0 +1,15 @@
+C:\Users\rados\OneDrive\Skrivebord\rep\TimeLogger\server\Timelogger.Application\bin\Debug\net7.0\Timelogger.Application.deps.json
+C:\Users\rados\OneDrive\Skrivebord\rep\TimeLogger\server\Timelogger.Application\bin\Debug\net7.0\Timelogger.Application.dll
+C:\Users\rados\OneDrive\Skrivebord\rep\TimeLogger\server\Timelogger.Application\bin\Debug\net7.0\Timelogger.Application.pdb
+C:\Users\rados\OneDrive\Skrivebord\rep\TimeLogger\server\Timelogger.Application\bin\Debug\net7.0\TimeLogger.Domain.dll
+C:\Users\rados\OneDrive\Skrivebord\rep\TimeLogger\server\Timelogger.Application\bin\Debug\net7.0\TimeLogger.Domain.pdb
+C:\Users\rados\OneDrive\Skrivebord\rep\TimeLogger\server\Timelogger.Application\obj\Debug\net7.0\Timelogger.Application.csproj.AssemblyReference.cache
+C:\Users\rados\OneDrive\Skrivebord\rep\TimeLogger\server\Timelogger.Application\obj\Debug\net7.0\Timelogger.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rados\OneDrive\Skrivebord\rep\TimeLogger\server\Timelogger.Application\obj\Debug\net7.0\Timelogger.Application.AssemblyInfoInputs.cache
+C:\Users\rados\OneDrive\Skrivebord\rep\TimeLogger\server\Timelogger.Application\obj\Debug\net7.0\Timelogger.Application.AssemblyInfo.cs
+C:\Users\rados\OneDrive\Skrivebord\rep\TimeLogger\server\Timelogger.Application\obj\Debug\net7.0\Timelogger.Application.csproj.CoreCompileInputs.cache
+C:\Users\rados\OneDrive\Skrivebord\rep\TimeLogger\server\Timelogger.Application\obj\Debug\net7.0\Timelogger.Application.csproj.CopyComplete
+C:\Users\rados\OneDrive\Skrivebord\rep\TimeLogger\server\Timelogger.Application\obj\Debug\net7.0\Timelogger.Application.dll
+C:\Users\rados\OneDrive\Skrivebord\rep\TimeLogger\server\Timelogger.Application\obj\Debug\net7.0\refint\Timelogger.Application.dll
+C:\Users\rados\OneDrive\Skrivebord\rep\TimeLogger\server\Timelogger.Application\obj\Debug\net7.0\Timelogger.Application.pdb
+C:\Users\rados\OneDrive\Skrivebord\rep\TimeLogger\server\Timelogger.Application\obj\Debug\net7.0\ref\Timelogger.Application.dll

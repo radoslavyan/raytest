@@ -1,0 +1,17 @@
+C:\Users\rados\OneDrive\Skrivebord\rep\TimeLogger\server\Timelogger.Infrastructure\bin\Debug\net7.0\Timelogger.Infrastructure.deps.json
+C:\Users\rados\OneDrive\Skrivebord\rep\TimeLogger\server\Timelogger.Infrastructure\bin\Debug\net7.0\Timelogger.Infrastructure.dll
+C:\Users\rados\OneDrive\Skrivebord\rep\TimeLogger\server\Timelogger.Infrastructure\bin\Debug\net7.0\Timelogger.Infrastructure.pdb
+C:\Users\rados\OneDrive\Skrivebord\rep\TimeLogger\server\Timelogger.Infrastructure\bin\Debug\net7.0\Timelogger.Application.dll
+C:\Users\rados\OneDrive\Skrivebord\rep\TimeLogger\server\Timelogger.Infrastructure\bin\Debug\net7.0\TimeLogger.Domain.dll
+C:\Users\rados\OneDrive\Skrivebord\rep\TimeLogger\server\Timelogger.Infrastructure\bin\Debug\net7.0\Timelogger.Application.pdb
+C:\Users\rados\OneDrive\Skrivebord\rep\TimeLogger\server\Timelogger.Infrastructure\bin\Debug\net7.0\TimeLogger.Domain.pdb
+C:\Users\rados\OneDrive\Skrivebord\rep\TimeLogger\server\Timelogger.Infrastructure\obj\Debug\net7.0\Timelogger.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\rados\OneDrive\Skrivebord\rep\TimeLogger\server\Timelogger.Infrastructure\obj\Debug\net7.0\Timelogger.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rados\OneDrive\Skrivebord\rep\TimeLogger\server\Timelogger.Infrastructure\obj\Debug\net7.0\Timelogger.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\rados\OneDrive\Skrivebord\rep\TimeLogger\server\Timelogger.Infrastructure\obj\Debug\net7.0\Timelogger.Infrastructure.AssemblyInfo.cs
+C:\Users\rados\OneDrive\Skrivebord\rep\TimeLogger\server\Timelogger.Infrastructure\obj\Debug\net7.0\Timelogger.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\rados\OneDrive\Skrivebord\rep\TimeLogger\server\Timelogger.Infrastructure\obj\Debug\net7.0\Timelogger.Infrastructure.csproj.CopyComplete
+C:\Users\rados\OneDrive\Skrivebord\rep\TimeLogger\server\Timelogger.Infrastructure\obj\Debug\net7.0\Timelogger.Infrastructure.dll
+C:\Users\rados\OneDrive\Skrivebord\rep\TimeLogger\server\Timelogger.Infrastructure\obj\Debug\net7.0\refint\Timelogger.Infrastructure.dll
+C:\Users\rados\OneDrive\Skrivebord\rep\TimeLogger\server\Timelogger.Infrastructure\obj\Debug\net7.0\Timelogger.Infrastructure.pdb
+C:\Users\rados\OneDrive\Skrivebord\rep\TimeLogger\server\Timelogger.Infrastructure\obj\Debug\net7.0\ref\Timelogger.Infrastructure.dll
