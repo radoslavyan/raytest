@@ -1,10 +1,55 @@
-To be able to run the React Code it is neccessery to install all the packages and plugins.
-They can be found in ReactCode Folder > package.json file
-With Visual Studio Code open ReactCode Folder and if all is Ok with
-command npm start front end should be able to launch.
-Front end connects to the back end so first its neccessery to run CombinedProject solution.
-CombinedProject Solution can be opened and build with visual studio.
-There are 2 endpoints that might need to be modified for your localhost 
-One at the front end is at file .env.development
-and the other at file appsettings.Development.json in .Net CombinedProject solution
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+
+Prerequisites
+What things you need to install the software and how to install them:
+
+java
+Node.js
+npm or yarn
+.NET Core SDK (for backend)
+Installing
+A step-by-step series of examples that tell you how to get a development environment running.
+
+Frontend
+Navigate to the frontend directory:
+client 
+bash
+
+cd path/to/frontend
+Install dependencies:
+
+
+npm install
+Start the development server:
+
+npm start
+Backend
+Navigate to the backend directory:
+
+bash
+
+cd path/to/backend
+Restore dependencies:
+
+Start the development server:
+
+
+Usage
+Briefly describe how to use the different views and components of your application.
+
+Viewing Projects
+Path: /projects
+Description: Displays a list of projects with options to sort by deadline, add new projects, or edit existing ones.
+How to Use:
+Click on "Add Project" to create a new project.
+Use the "Sort Projects" button to toggle the sorting order.
+Managing Time Registrations
+Path: /timeregistrations
+Description: Allows users to add time registrations to projects and view a list of existing registrations.
+How to Use:
+Select a project by projectId from the dropdown menu.
+Enter start and end times.
+Click "Submit" to add the time registration.
+
+
 
