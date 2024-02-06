@@ -21,9 +21,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Timelogger.Application", "T
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Timelogger.Perisistence", "Timelogger.Perisistenc\Timelogger.Perisistence.csproj", "{4EABFF6C-4B76-4E77-878A-FD4AB46041BE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Timelogger.Infrastructure", "Timelogger.Infrastructure\Timelogger.Infrastructure.csproj", "{A4572D81-091C-473C-A876-7B430AB3192A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Timelogger.Infrastructure", "Timelogger.Infrastructure\Timelogger.Infrastructure.csproj", "{A4572D81-091C-473C-A876-7B430AB3192A}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UI", "UI", "{6B2099D2-613A-49A2-AB8F-5280A0EA3D4E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Timelogger.UnitTests", "Timelogger.UnitTests\Timelogger.UnitTests.csproj", "{79AA3057-77F2-46A4-A9D2-5CAAFBFD71E6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +51,10 @@ Global
 		{A4572D81-091C-473C-A876-7B430AB3192A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A4572D81-091C-473C-A876-7B430AB3192A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A4572D81-091C-473C-A876-7B430AB3192A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79AA3057-77F2-46A4-A9D2-5CAAFBFD71E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79AA3057-77F2-46A4-A9D2-5CAAFBFD71E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79AA3057-77F2-46A4-A9D2-5CAAFBFD71E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79AA3057-77F2-46A4-A9D2-5CAAFBFD71E6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -65,7 +69,7 @@ Global
 		{8234EC7C-DD23-420C-AE1C-33640CCE5E00} = {5CEAFC88-F595-486A-9A6C-059F392A3589}
 		{4EABFF6C-4B76-4E77-878A-FD4AB46041BE} = {DF3BA400-00BD-41A9-AA7B-714AD1DC76F4}
 		{A4572D81-091C-473C-A876-7B430AB3192A} = {DF3BA400-00BD-41A9-AA7B-714AD1DC76F4}
-		{6B2099D2-613A-49A2-AB8F-5280A0EA3D4E} = {9E8ECFC0-0924-4125-B67E-0E4F53CBAFC7}
+		{79AA3057-77F2-46A4-A9D2-5CAAFBFD71E6} = {01B30198-12D8-4D93-907A-F940F8EBBEE1}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A3D6C2A6-BFCB-4376-9DF6-27F0AC128E9F}
