@@ -26,7 +26,6 @@
 
   <ItemGroup>
     <Folder Include="Features\Timeregistration\" />
-    <Folder Include="Features\Project\" />
   </ItemGroup>
 
   <ItemGroup>

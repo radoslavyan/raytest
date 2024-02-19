@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Timelogger.Application.Contracts.Logging;
 using Timelogger.Application.Contracts.Persistence;
 using TimeLogger.Domain.Models;
 
@@ -11,8 +12,9 @@ namespace Timelogger.Perisistence.Repositories
     public class ProjectInMemoryRepository : IProjectRepository
     {
         private readonly List<Project> _projects = new List<Project>();
-            
-        public ProjectInMemoryRepository() 
+        private readonly IAppLogger<ProjectInMemoryRepository> _logger;
+
+        public ProjectInMemoryRepository( IAppLogger<ProjectInMemoryRepository> logger) 
         {
             _projects.Add(new Project { Id = 1, Name = "Project 1", Description = "Project 1 Description", 
                 Deadline = DateTime.Parse("2024-02-16"), DateCreated = DateTime.Now, IsCompletedStatus = false });
@@ -20,11 +22,16 @@ namespace Timelogger.Perisistence.Repositories
                 Deadline = DateTime.Parse("2024-02-17"), DateCreated = DateTime.Now, IsCompletedStatus = false });
             _projects.Add(new Project { Id = 3, Name = "Project 3", Description = "Project 3 Description", 
                 Deadline = DateTime.Parse("2024-02-18"), DateCreated = DateTime.Now, IsCompletedStatus = false });
+
+            
+            _logger = logger;
         }
 
 
         public async Task<IReadOnlyList<Project>> GetAllAsync()
         {
+            _logger.LogInformation("running GetAllAsync to retrieve all");
+
             return await Task.FromResult(_projects.AsReadOnly());
         }
 
@@ -35,6 +42,8 @@ namespace Timelogger.Perisistence.Repositories
 
         public async Task CreateAsync(Project entity)
         {
+            _logger.LogInformation("running CreateAsync to create a project");
+
             entity.Id = _projects.Count + 1;
             _projects.Add(entity);
             await Task.CompletedTask;
@@ -80,13 +89,12 @@ namespace Timelogger.Perisistence.Repositories
 
         public async Task<IReadOnlyList<Project>> GetAllProjectsAsync()
         {
-            return await GetAllAsync();
+            _logger.LogInformation("running GetAllProjectsAsync to retrieve all");
+
+            return await Task.FromResult(_projects.AsReadOnly());
         }
 
-        public async Task<IReadOnlyList<Project>> GetProjectWithDetailsAsync(int projectId)
-        {
-            return await Task.FromResult(_projects.Where(p => p.Id == projectId).ToList().AsReadOnly());
-        }
+
 
     }
 

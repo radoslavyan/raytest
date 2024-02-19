@@ -56,3 +56,16 @@ C:\Users\rados\OneDrive\Skrivebord\rep\TimeLogger\server\Timelogger.Api\bin\Debu
 C:\Users\rados\OneDrive\Skrivebord\rep\TimeLogger\server\Timelogger.Api\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
 C:\Users\rados\OneDrive\Skrivebord\rep\TimeLogger\server\Timelogger.Api\bin\Debug\net7.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
 C:\Users\rados\OneDrive\Skrivebord\rep\TimeLogger\server\Timelogger.Api\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\rados\OneDrive\Skrivebord\rep\TimeLogger\server\Timelogger.Api\bin\Debug\net7.0\xunit.runner.visualstudio.testadapter.dll
+C:\Users\rados\OneDrive\Skrivebord\rep\TimeLogger\server\Timelogger.Api\bin\Debug\net7.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\rados\OneDrive\Skrivebord\rep\TimeLogger\server\Timelogger.Api\bin\Debug\net7.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\rados\OneDrive\Skrivebord\rep\TimeLogger\server\Timelogger.Api\bin\Debug\net7.0\Castle.Core.dll
+C:\Users\rados\OneDrive\Skrivebord\rep\TimeLogger\server\Timelogger.Api\bin\Debug\net7.0\Moq.dll
+C:\Users\rados\OneDrive\Skrivebord\rep\TimeLogger\server\Timelogger.Api\bin\Debug\net7.0\xunit.abstractions.dll
+C:\Users\rados\OneDrive\Skrivebord\rep\TimeLogger\server\Timelogger.Api\bin\Debug\net7.0\xunit.assert.dll
+C:\Users\rados\OneDrive\Skrivebord\rep\TimeLogger\server\Timelogger.Api\bin\Debug\net7.0\xunit.core.dll
+C:\Users\rados\OneDrive\Skrivebord\rep\TimeLogger\server\Timelogger.Api\bin\Debug\net7.0\xunit.execution.dotnet.dll
+C:\Users\rados\OneDrive\Skrivebord\rep\TimeLogger\server\Timelogger.Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\rados\OneDrive\Skrivebord\rep\TimeLogger\server\Timelogger.Api\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\rados\OneDrive\Skrivebord\rep\TimeLogger\server\Timelogger.Api\bin\Debug\net7.0\Timelogger.Infrastructure.dll
+C:\Users\rados\OneDrive\Skrivebord\rep\TimeLogger\server\Timelogger.Api\bin\Debug\net7.0\Timelogger.Infrastructure.pdb

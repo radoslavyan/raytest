@@ -5,6 +5,7 @@ using Timelogger.Perisistence.DatabaseContext;
 using Microsoft.EntityFrameworkCore;
 using Timelogger.Perisistence.Repositories;
 using TimeLogger.Domain.Models;
+using Timelogger.Application.Contracts.Logging;
 
 namespace Timelogger.Perisistence
 {

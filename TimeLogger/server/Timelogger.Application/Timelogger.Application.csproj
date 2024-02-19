@@ -19,11 +19,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Features\ProjectFeature\Commands\CreateProject\" />
     <Folder Include="Features\ProjectFeature\Commands\DeleteProject\" />
     <Folder Include="Features\ProjectFeature\Commands\UpdateProject\" />
-    <Folder Include="Features\ProjectFeature\Queries\GetAllProjects\" />
-    <Folder Include="Features\ProjectFeature\Queries\GetProjectWithDetails\" />
     <Folder Include="Features\TimeRegistrationFeature\Commands\CreateTimeRegistration\" />
     <Folder Include="Features\TimeRegistrationFeature\Commands\DeleteTimeRegistration\" />
     <Folder Include="Features\TimeRegistrationFeature\Commands\UpdateTimeRegistration\" />

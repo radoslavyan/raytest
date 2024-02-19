@@ -31,6 +31,9 @@
               "C:\\Users\\rados\\OneDrive\\Skrivebord\\rep\\TimeLogger\\server\\Timelogger.Application\\Timelogger.Application.csproj": {
                 "projectPath": "C:\\Users\\rados\\OneDrive\\Skrivebord\\rep\\TimeLogger\\server\\Timelogger.Application\\Timelogger.Application.csproj"
               },
+              "C:\\Users\\rados\\OneDrive\\Skrivebord\\rep\\TimeLogger\\server\\Timelogger.Infrastructure\\Timelogger.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\rados\\OneDrive\\Skrivebord\\rep\\TimeLogger\\server\\Timelogger.Infrastructure\\Timelogger.Infrastructure.csproj"
+              },
               "C:\\Users\\rados\\OneDrive\\Skrivebord\\rep\\TimeLogger\\server\\Timelogger.Perisistenc\\Timelogger.Perisistence.csproj": {
                 "projectPath": "C:\\Users\\rados\\OneDrive\\Skrivebord\\rep\\TimeLogger\\server\\Timelogger.Perisistenc\\Timelogger.Perisistence.csproj"
               }
@@ -56,6 +59,20 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.15, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.70, )"
+            },
+            "xUnit": {
+              "target": "Package",
+              "version": "[2.7.0, )"
+            },
+            "xUnit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.5.7, )"
             }
           },
           "imports": [
@@ -197,6 +214,83 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\rados\\OneDrive\\Skrivebord\\rep\\TimeLogger\\server\\Timelogger.Infrastructure\\Timelogger.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rados\\OneDrive\\Skrivebord\\rep\\TimeLogger\\server\\Timelogger.Infrastructure\\Timelogger.Infrastructure.csproj",
+        "projectName": "Timelogger.Infrastructure",
+        "projectPath": "C:\\Users\\rados\\OneDrive\\Skrivebord\\rep\\TimeLogger\\server\\Timelogger.Infrastructure\\Timelogger.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\rados\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rados\\OneDrive\\Skrivebord\\rep\\TimeLogger\\server\\Timelogger.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rados\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\rados\\OneDrive\\Skrivebord\\rep\\TimeLogger\\server\\Timelogger.Application\\Timelogger.Application.csproj": {
+                "projectPath": "C:\\Users\\rados\\OneDrive\\Skrivebord\\rep\\TimeLogger\\server\\Timelogger.Application\\Timelogger.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
