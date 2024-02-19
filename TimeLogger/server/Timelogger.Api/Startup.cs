@@ -12,6 +12,7 @@ using System;
 using Timelogger.Perisistence;
 using System.Collections.Generic;
 using System.Linq;
+using Timelogger.Infrastructure;
 
 namespace Timelogger.Api
 {
@@ -38,6 +39,7 @@ namespace Timelogger.Api
             // Add framework services.
             
             services.AddApplicationServices();
+            services.AddInfrastructureServices(Configuration);
             services.AddPersistenceServices(Configuration);
 
             services.AddDbContext<TimeloggerDbContext>(opt => opt.UseInMemoryDatabase("e-conomic interview"));

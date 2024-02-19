@@ -7,6 +7,5 @@ namespace Timelogger.Application.Contracts.Persistence
         Task<bool> IsProjectNameUnique(string name);
         Task<bool> CheckIfProjectExist(int projectId, string name);
         Task<IReadOnlyList<Project>> GetAllProjectsAsync();
-        Task<IReadOnlyList<Project>> GetProjectWithDetailsAsync(int projectId);
     }
 }
